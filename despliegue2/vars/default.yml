@@ -1,0 +1,7 @@
+---
+mysql_root_password: "root"
+app_user: "djlares"
+http_host: "dlara.com"
+http_conf: "dlara.com.conf"
+http_port: "80"
+disable_default: true
